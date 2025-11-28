@@ -24,7 +24,7 @@ Tous les travaux ont été implémentés dans un notebook Kaggle pour un usage e
 ## Structure du Repository
 ```
 lab1-deep-learning/
-├── Atelier1.ipynb
+├── notebookAtelier1.ipynb
 └── README.md
 ```
 
